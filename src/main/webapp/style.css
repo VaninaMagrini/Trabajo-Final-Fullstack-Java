@@ -1,0 +1,51 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 11 dic 2022, 18:24:44
+    Author     : VANINA
+*/
+*
+{
+margin: 0px;
+padding: 0px;
+}
+
+.container
+{
+ width: 80%;
+ height: 80%;
+ margin: auto;
+ /*background-color: lightblue;*/
+}
+
+.caja-titulo
+{
+ width: 62%;
+ background-color: lightgray;
+ margin: auto;
+ display: flex;
+ justify-content: center;
+}
+
+.caja-form1
+{
+ width: 62%;
+ background-color: lightgray;
+ margin: auto;
+ display: flex;
+ justify-content: space-between;
+}
+.caja-formulario
+{
+ width: 70%;
+ background-color: lightgray;
+ margin: auto;
+
+}
+
+body{
+    
+ background-image: url("gimnasio.jpg");
+}
